@@ -69,3 +69,6 @@ o Step 5: Classification
  |----audio/
     |--samples/             # Sample test files
 
+-> MICROPHONE ACCESS WARNING
+
+Currently , microphone access was not granted by the windows during testing. kindly look out before deploying or using somewhere. Thank you
